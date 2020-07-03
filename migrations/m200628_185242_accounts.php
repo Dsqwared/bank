@@ -37,8 +37,8 @@ class m200628_185242_accounts extends Migration
             'access' => '1',
             'last_name' => 'admin',
             'gender' => '1',
-            'password_hash' => '$2y$13$KVAnU3Z8K/G8G0lEfH9HYu.yGvCdXe4oreJpzpTPWuCr0Yaa6SFUC', //111111
-            'auth_key' => 'hppEjUGsgzRveNIfDD5r8kViRL6551Pl',
+            'password_hash' => '$2y$13$O181FKYztApvY2PbEXnW6O7vMnoP9kigqHEBx6O/3Cj3qaAhRa65q', //111111
+            'auth_key' => 'sVpeiJ4GvqJr34vFyXpTtS4mI-S_5_jO',
             'date_of_birth' => '1980-01-01',
         ]);
     }
